@@ -1,0 +1,37 @@
+*,body{
+		margin:0px auto;
+		text-align:center;
+	}
+main{
+	width:960px;
+	height:500px;
+	border:1px solid red;
+	
+}
+#menu{
+	float:left;
+	height:500px;
+	width:90px;
+	border:1px solid #ededed;
+	text-align:center;
+}
+
+ul li{
+	margin-left:10px;
+	margin-top:15px;
+
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+}
+iframe{
+	height:480px;
+	width:860px;
+}
+
+#tb1{float:left;
+	margin-left:20px;
+}
+.td1{
+	text-align:center;
+}

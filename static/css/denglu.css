@@ -1,0 +1,83 @@
+	*,body{
+
+		margin:0px auto;
+		text-align:center;
+	}
+	header{
+		width:960px;
+		height:160px;
+		
+
+
+	}
+	#top{
+		height:160px;
+		width:960px;
+		background:url("./static/images/topb.jpg" ) repeat left top;}
+
+#kj{
+		margin-top:4px;
+		margin-right:4px;
+		line-height:30px;
+		width:115px;
+		height:25px;
+		background:url("./static/images/kj1.jpg" ) no-repeat;
+		font-weight:bold;
+		color:#336699;
+		float:right;
+	}
+	#kj:hover{
+		background:url("./static/images/kj2.jpg" ) no-repeat;
+		display:block;
+
+	}
+	
+	#kjy{
+		height:60px;
+		width:60px;
+		
+		display:none;
+	}
+#ss1{
+		
+		
+		margin-left:15px;
+		
+		width:470px;
+		background:url("./static/images/ss.jpg" ) no-repeat;
+		
+		float:left;
+
+	}
+	footer{
+		width:960px;
+		height:auto;
+		border-top:1px solid #CDCDCD;
+		margin-top:10px;
+	}
+	#f0{
+		
+		width:960px;
+		height:25px;
+		
+
+	}
+	#f1{
+		float:left;
+		width:500px;
+		height:25px;
+		
+		text-align:left;
+
+	}
+	#f2{
+			
+		line-height:25px;
+		float:right;
+	}
+	#f3{float:right;
+		overflow:hidden;
+		height:25px;
+		width:25px;
+		background:url("./static/images/qq.jpg" ) repeat  -5px -5px;
+	}

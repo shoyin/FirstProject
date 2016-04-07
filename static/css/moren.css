@@ -1,0 +1,38 @@
+main{
+	clear:both;
+}
+#r1{
+	
+	width:960px;
+	height:30px;
+	
+	text-align:left;
+	line-height:30px;
+}
+#r11{
+	height:20px;
+	margin-top:3px;
+      float:left;
+ 
+}
+#r2{
+	height:150px;
+	width:130px;
+	border:1px #BDD7E3 solid;
+	background:#F5F9FB;
+	float:left;
+
+}
+#r21{
+
+	height:45px;
+	line-height:45px;
+	font-size:14px;
+	font-weight:bold;
+	border-bottom:1px #BDD7E3 solid;
+	
+}
+#r22{
+	font-size:12px;
+	font-weight:bold;
+}

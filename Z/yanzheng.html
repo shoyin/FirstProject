@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<script type="text/javascript">
+	function change(obj){
+		obj.src="1.php?r="+Math.random();
+	}
+	function changeimg(){
+		//根据id获取一个元素对象
+		var obj = document.getElementById("yanzheng");
+		obj.src="1.php?r="+Math.random();
+	}
+
+	</script>
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form action="post.php" method="post">
+	验证码<input type="text" name="yz" id="">
+	<img  id='yanzheng' src="1.php" alt="" onclick='change(this)'>
+	<div onclick="changeimg()">看不清,点击更换验证码</div>
+	<input type="submit">
+	</form>
+
+
+
+
+</body>
+</html>

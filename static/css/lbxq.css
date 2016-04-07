@@ -1,0 +1,33 @@
+.m4{
+	height:30px;
+	width:960px;
+	border-top:1px solid #CDCDCD;
+	margin-top:8px;
+	text-align:left;
+	text-indent:10px;
+	clear:both;
+}
+
+#m5{
+	
+	width:960px;
+	height:auto;
+	border:1px solid #CDCDCD;
+}
+.d1{
+	float:left;
+	width:18%;
+	
+	border:1px solid #CDCDCD;
+}
+table{
+	width:100%;
+	border:1px solid #CDCDCD;
+	text-align:center;
+}
+
+
+
+
+
+
